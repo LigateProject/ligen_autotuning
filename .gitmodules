@@ -1,0 +1,3 @@
+[submodule "aMLLibrary"]
+	path = aMLLibrary
+	url = git@github.com:aMLLibrary/aMLLibrary.git
