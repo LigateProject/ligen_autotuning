@@ -3,7 +3,7 @@
 [`aMLLibrary`](https://github.com/aMLLibrary/aMLLibrary) is an open-source, high-level Python package that uses supervised Machine Learning (ML) techniques to train regression models on a given dataset.
 It is included as a submodule in this repository.
 
-The `ligen_aml_config_files` contains examples of text configuration files used for Ligen autotuning of `aMLLibrary`.
+The `ligen_aml_config_files` folder contains examples of text configuration files used for Ligen autotuning of `aMLLibrary`.
 
 ## Usage example
 In order to run the library with a given configuration, please run the following command-line instruction inside the `aMLLibrary` folder:
