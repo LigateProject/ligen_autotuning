@@ -28,7 +28,7 @@ which defaults to a `bash` terminal unless a specific command is appended to the
 In this terminal, you may run the same commands as in a regular terminal.
 
 ## Documentation
-Please check out the [aMLLibrary](https://github.com/aMLLibrary/aMLLibrary) repository and documentation for more information.
+Please check out the [`aMLLibrary`](https://github.com/aMLLibrary/aMLLibrary) repository and documentation for more information.
 
 
 # Plotting tools
