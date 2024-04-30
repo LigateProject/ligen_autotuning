@@ -1,3 +1,6 @@
 [submodule "aMLLibrary"]
 	path = aMLLibrary
 	url = git@github.com:aMLLibrary/aMLLibrary.git
+[submodule "PAMaliboo"]
+	path = PAMaliboo
+	url = git@github.com:brunoguindani/PAMaliboo.git
